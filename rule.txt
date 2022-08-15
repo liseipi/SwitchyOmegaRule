@@ -1,0 +1,6 @@
+*.github.com +127.0.0.1:1086
+*.avatars.githubusercontent.com +127.0.0.1:1086
+*.gmail.com +127.0.0.1:1086
+*.googleusercontent.com +127.0.0.1:1086
+*.google.com.hk +127.0.0.1:1086
+*.google.com +127.0.0.1:1086
