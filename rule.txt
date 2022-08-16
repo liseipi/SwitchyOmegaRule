@@ -1,3 +1,6 @@
+[SwitchyOmega Conditions]
+@with result
+
 *.github.com +127.0.0.1:1086
 *.avatars.githubusercontent.com +127.0.0.1:1086
 *.gmail.com +127.0.0.1:1086
